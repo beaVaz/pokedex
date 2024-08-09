@@ -1,5 +1,5 @@
 # pokedex
-Projeto Pokedex
+<h1>PROJETO POKEDEX</h1>
 
 Projeto idealizado e realizado para testar alguns conhecimentos de programação, usando consumo de API, HTML, CSS, JAVASCRIPT, e o GITHUB.
 
