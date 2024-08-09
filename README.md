@@ -9,4 +9,4 @@ Com ele já finalizado, podemos consultar diversos Pokemons, e também dados rel
 
 https://pokedex-9uzv6xb06-beavazs-projects.vercel.app
 
-<h6><i><b>Desenvolvido por beaVaz</b></i></h6>h6>
+<h6><i><b>Desenvolvido por beaVaz</b></i></h6>
