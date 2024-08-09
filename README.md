@@ -6,6 +6,7 @@ Projeto idealizado e realizado para testar alguns conhecimentos de programação
 Com ele já finalizado, podemos consultar diversos Pokemons, e também dados relacinados a eles.
 
 <i>TESTE AQUI SUAS HABILIDADES DE TREINADOR POKEMON</i>
+
 https://pokedex-9uzv6xb06-beavazs-projects.vercel.app
 
-<i><b>Desenvolvido por beaVaz</b></i>
+<h6><i><b>Desenvolvido por beaVaz</b></i></h6>h6>
