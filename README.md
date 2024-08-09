@@ -8,4 +8,4 @@ Com ele já finalizado, podemos consultar diversos Pokemons, e também dados rel
 <i>TESTE AQUI SUAS HABILIDADES DE TREINADOR POKEMON</i>
 https://pokedex-9uzv6xb06-beavazs-projects.vercel.app
 
-
+<i><b>Desenvolvido por beaVaz</b></i>
